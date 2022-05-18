@@ -6,3 +6,6 @@ After waiting for years and passing several tests, the Martian Aerospace Agency 
 KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a crowdsale that will allow people who are moving to Mars to convert their earthling money to KaseiCoin.
 
 ## Evaluation Evidence
+![G1](https://github.com/seane13/21-Advanced-Solidity/blob/trunk/screenshots/G1.png)
+![G2](https://github.com/seane13/21-Advanced-Solidity/blob/trunk/screenshots/G2.png)
+![G3](https://github.com/seane13/21-Advanced-Solidity/blob/trunk/screenshots/G3.png)
